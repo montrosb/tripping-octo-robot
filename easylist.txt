@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: cTEx37Tl5kBi9DTn32S6KQ
 ! Version: 201503301940
+! redirect: https://easylist-downloads.adblockplus.org/easylist.txt
 ! Title: EasyList
 ! Last modified: 30 Mar 2015 19:40 UTC
 ! Expires: 4 days (update frequency)
